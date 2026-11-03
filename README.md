@@ -341,6 +341,18 @@ outputs/gui_history.png
 The report generator identifies missing evidence instead of inventing
 screenshots or results.
 
+## 🖥️ Application Screenshots
+
+### 🔐 Login & Registration
+![Login Screen](outputs/gui_login.png)
+
+### 🐞 Insect Prediction
+![Prediction Screen](outputs/gui_predict.png)
+
+### 📂 User Prediction History
+![History Screen](outputs/gui_history.png)
+
+
 ## 🧪 Run Unit Tests
 
 Execute the test suite:
@@ -392,7 +404,10 @@ Insect-Classifier/
 │   ├── confusion_matrix.png
 │   ├── samples.png
 │   ├── wrong_predictions.png
-│   └── wrong_predictions.json
+│   ├── wrong_predictions.json
+│   ├── gui_login.png
+│   ├── gui_predict.png
+│   └── gui_history.png
 │
 ├── app_data/
 │   └── SQLite database and copied user images

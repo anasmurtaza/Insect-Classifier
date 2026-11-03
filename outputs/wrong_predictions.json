@@ -1,0 +1,20 @@
+[
+  {
+    "true": "bee",
+    "predicted": "beetle",
+    "confidence": 0.27064788341522217,
+    "explanation": "Possible causes: 32x32 resolution, similar shape/colour or background. This is a hypothesis, not a proven model explanation."
+  },
+  {
+    "true": "bee",
+    "predicted": "cockroach",
+    "confidence": 0.5796133875846863,
+    "explanation": "Possible causes: 32x32 resolution, similar shape/colour or background. This is a hypothesis, not a proven model explanation."
+  },
+  {
+    "true": "bee",
+    "predicted": "cockroach",
+    "confidence": 0.47537145018577576,
+    "explanation": "Possible causes: 32x32 resolution, similar shape/colour or background. This is a hypothesis, not a proven model explanation."
+  }
+]
